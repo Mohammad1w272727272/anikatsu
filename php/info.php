@@ -23,9 +23,9 @@ $banner = $webUrl . "/files/images/banner.png";
 
 // API URL
 if (date("d") < "20") {
-    $apiLink = "https://anikatsu-api1.herokuapp.com";
+    $apiLink = "https://www.animeiat.tv/api";
   } else {
-    $apiLink ="https://anikatsu-api2.herokuapp.com";
+    $apiLink ="https://www.animeiat.tv/api";
   };
 
 ?>
